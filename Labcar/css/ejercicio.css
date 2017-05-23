@@ -1,3 +1,7 @@
+.imagen {
+  background-image: url("Labcar/img/taxi.jpg");/*checar que efecto realiza directamente en las imagenes*/
+}
+
 .color {
 
   padding: 2%;
