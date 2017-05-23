@@ -1,0 +1,85 @@
+.color {
+
+  padding: 2%;
+
+}
+.amarillo{
+  background-color: DarkOrange;
+  padding: 2%;
+}
+
+.margen {
+  margin: 0;
+  padding: 0;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+/*Estilos imagen taxi*/
+.dimension {
+ width: 100%;
+  height: 5%;
+  display: block;
+}
+
+.formulario {
+  width: 30%;
+  height: 30%;
+  border-color: pink solid;
+  border-style: double;
+  background-color: yellow;
+
+}
+.logoPeque {
+  width: 25%;
+  height: 25%;
+}
+.posicion{
+  position: absolute;
+
+}
+.posicionImagen {
+  position: relative;
+
+}
+.celular{
+  width: 40%;
+  height: 40%;
+}
+.alinear{
+  text-align: center;
+}
+
+.abajo {
+  bottom:  2%;
+}
+.blanco {
+  padding: .8px;
+  background-color: white;
+}
+.negro{
+  background-color: black;
+}
+.espacioFooter {
+  margin: 20px;
+
+}
+.margenCelular{
+  border-top: solid white;
+  border-right: solid  white;
+  border-bottom: solid white;
+
+}
